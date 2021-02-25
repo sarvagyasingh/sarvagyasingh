@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarvagya Singh</h1>
 <h3 align="center">A Data Science and a MEAN stack enthusiast from India</h3>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" align="center" alt="Coder GIF">
-
 - 🔭 I’m currently working on:
   * Full Stack Developer at Psylief
   * Serving as a mentor for the Deeplearning.ai's Natural Language Processing Specialisation being offered on Coursera.
