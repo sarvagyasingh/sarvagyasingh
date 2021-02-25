@@ -31,12 +31,3 @@ const sarvagya = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarvagyasingh1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarvagyasingh1" height="30" width="40" /></a>
-<a href="https://kaggle.com/sarvagyasingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sarvagyasingh" height="30" width="40" /></a>
-<a href="https://instagram.com/sarvagyasingh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sarvagyasingh_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarvagyasingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sarvagyasingh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sarvagyasingh1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sarvagyasingh1" height="30" width="40" /></a>
-</p>
