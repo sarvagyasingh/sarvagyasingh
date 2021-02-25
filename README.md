@@ -14,7 +14,7 @@
 
 - 💬 You can ask me about **Data Science, Machine Learning and MEAN Stack**
 
-- 📫 I love connecting with people so if you want to say hi, you can Reach me at **sarvagyasingh1@gmail.com**
+- 📫 I love connecting with people so if you want to say hi, you can Reach me at **sarvagyasingh1@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/sarvagyasingh1/)
 
 
 ```javascript
