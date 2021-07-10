@@ -2,7 +2,7 @@
 <h3 align="center">A Data Science and a MEAN stack enthusiast from India</h3>
 
 - 🔭 I’m currently working on:
-  * Full Stack Developer at Psylief
+  * Software Engineer @ Hexaware Technologies
   * Serving as a mentor for the Deeplearning.ai's Natural Language Processing Specialisation being offered on Coursera.
 
 - 🌱 I’m currently learning:
